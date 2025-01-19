@@ -26,7 +26,7 @@ const __dirname = path.resolve();
 app.use(express.json());
 app.use(cookieParser());
 app.use(cors({
-    origin:"https://e-learning-31ns.onrender.com",
+    origin:"https://e-learning-2354.onrender.com",
     credentials:true
 }))
 

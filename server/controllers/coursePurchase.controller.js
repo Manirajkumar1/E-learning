@@ -39,8 +39,8 @@ export const createCheckoutSession = async (req, res) => {
         },
       ],
       mode: "payment",
-      success_url: `https://e-learning-31ns.onrender.com/course-progress/${courseId}`, // once payment successful redirect to course progress page
-      cancel_url: `https://e-learning-31ns.onrender.com/course-detail/${courseId}`,
+      success_url: `https://e-learning-2354.onrender.com/course-progress/${courseId}`, // once payment successful redirect to course progress page
+      cancel_url: `https://e-learning-2354.onrender.com/course-detail/${courseId}`,
       metadata: {
         courseId: courseId,
         userId: userId,
