@@ -39,7 +39,7 @@ export const searchCourse = async (req, res) => {
     console.log(categories);
     
     // Parse categories from string to array if it comes as string
-    const categoryArray = typeof categories === 'string' ? categories.split(',') : categories;
+    const categoryArray = typeof categories === 'string' ? categories.split(',').map(c => c.trim()) : categories;
 
 
 
