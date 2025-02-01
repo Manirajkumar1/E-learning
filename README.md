@@ -1,6 +1,6 @@
 # E-Learning Platform
 
-This is a full-stack E-Learning platform built with React, Redux Toolkit, and Express. The platform allows users to browse, purchase, and take courses. It also includes an admin panel for managing courses and lectures.
+This is a full-stack E-Learning platform built with React, Redux Toolkit, and Express. The platform allows users to browse, purchase, and take courses. It also includes an admin panel for managing courses and lectures.[live](https://e-learning-ebrd.onrender.com)
 
 ## Features
 
