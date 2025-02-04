@@ -54,7 +54,7 @@ const Footer = () => {
                   </a>
                 </li>
                 <li className="mb-4">
-                  <a href="#" className="hover:underline">
+                  <a href="https://github.com/Manirajkumar1/E-learning" className="hover:underline">
                     Contact Us
                   </a>
                 </li>
@@ -189,7 +189,7 @@ const Footer = () => {
                 <span className="sr-only">GitHub account</span>
               </a>
               <a
-                href="https://github.com/Manirajkumar1/E-learning"
+                href="#"
                 className="text-gray-400 hover:text-gray-900 dark:hover:text-white"
               >
                 <svg
